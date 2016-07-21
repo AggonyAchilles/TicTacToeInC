@@ -1,6 +1,6 @@
 // TIC TAC TOE
 //
-//By Ian Angillis
+//By Ian 
 //
 //
 //If compiling in Visual Studio:
